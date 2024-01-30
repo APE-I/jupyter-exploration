@@ -1,1 +1,2 @@
 # jupyter-exploration
+For this assignment, I will be exploring GitHub and then Installing and using Jupyter Notebooks. From there I will create a new notebook and name it. After it has been named we will run some basic operations in Jupyter Notebook such as explaining the concept of cells in a Jupyter Notebook (code cells, markdown cells, etc.) Following that I will run a quick Hello World command and create and format a markdown cell.
